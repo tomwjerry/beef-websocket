@@ -1,0 +1,6 @@
+FileVersion = 1
+Dependencies = {corlib = "*", BeefWebsocket = "*"}
+
+[Project]
+Name = "WebsocketExample"
+StartupObject = "WebsocketExample.Program"

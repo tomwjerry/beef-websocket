@@ -1,0 +1,5 @@
+FileVersion = 1
+Projects = {BeefWebsocket = {Path = "."}, Beef-Net = {Path = "../Beef-Net"}, Beef-OpenSSL = {Path = "../Beef-Net/Beef-OpenSSL"}, WebsocketExample = {Path = "Example"}, BeefCrypto = {Path = "BeefCrypto"}, sead = {Path = "../../skoj/RoIBeef/sead"}}
+
+[Workspace]
+StartupProject = "WebsocketExample"
